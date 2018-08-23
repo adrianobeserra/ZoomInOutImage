@@ -30,7 +30,7 @@ public class Main {
         imagesToZoomOut.add(Zoom_out_2);
         imagesToZoomOut.add(Zoom_out_3);
         for (ConfigImage image : imagesToZoomOut) {
-                image.zoonOut();
+                //image.zoonOut();
         }
 
         System.out.println("--- pdi.br.poli.ecomp ---");
